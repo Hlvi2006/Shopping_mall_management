@@ -3,7 +3,7 @@ from models.shop import Shop, SpecialtyShop
 from models.rental import Rental
 from models.maintenance import Maintenance
 
-class SingletonMeta(type):
+class SingletonMeta(type): #db ile elaqeni bir defe yardir ve orsan istifade edir
     """Singleton pattern for DB connection."""
     _instances = {}
     def __call__(cls, *args, **kwargs):
