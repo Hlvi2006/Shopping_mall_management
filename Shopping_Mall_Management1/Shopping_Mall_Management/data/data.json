@@ -1,0 +1,40 @@
+{
+    "shops": [
+        {
+            "shop_id": "101",
+            "name": "Zara",
+            "owner": "Ulvi Hajiyev",
+            "category": "Food",
+            "price": 1600.0,
+            "is_rented": true
+        },
+        {
+            "shop_id": "102",
+            "name": "Starbucks",
+            "owner": "Vali Aliyev",
+            "category": "Food",
+            "price": 2000.0,
+            "is_rented": false
+        }
+    ],
+    "rentals": [
+        {
+            "rental_id": "R001",
+            "shop_id": "101",
+            "tenant": "Rufat",
+            "start_date": "2024-01-01",
+            "end_date": "2024-03-01",
+            "monthly_price": 1500.0,
+            "total_cost": 3000.0
+        }
+    ],
+    "maintenance": [
+        {
+            "main_id": "M001",
+            "shop_id": "101",
+            "description": "Kondisioner temiri",
+            "date": "2024-02-15",
+            "cost": 100.0
+        }
+    ]
+}

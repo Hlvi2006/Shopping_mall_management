@@ -1,0 +1,25 @@
+[2025-12-08 23:10:18] [INFO] System Started
+[2025-12-08 23:24:24] [INFO] System Started
+[2025-12-08 23:39:01] [INFO] System Started
+[2025-12-08 23:51:58] [INFO] System Started
+[2025-12-08 23:52:43] [INFO] System Started
+[2025-12-08 23:53:35] [INFO] Created Shop: Gucci (ID: 103)
+[2025-12-08 23:54:39] [INFO] Deleted Shop ID: 103
+[2025-12-09 00:05:44] [INFO] System Started
+[2025-12-09 00:06:37] [ERROR] Critical: property 'category' of 'Shop' object has no setter
+[2025-12-09 00:08:08] [INFO] Updated Shop ID: 101
+[2025-12-09 00:09:12] [INFO] Updated Shop ID: 101
+[2025-12-09 00:09:45] [ERROR] Critical: property 'category' of 'Shop' object has no setter
+[2025-12-09 00:12:52] [INFO] System Started
+[2025-12-09 00:13:08] [INFO] Updated Shop ID: 101
+[2025-12-09 00:14:53] [INFO] System Started
+[2025-12-09 00:15:32] [INFO] Updated Rental ID: R001
+[2025-12-09 00:16:39] [ERROR] Critical: property 'start_date' of 'Rental' object has no setter
+[2025-12-09 00:54:17] [INFO] Added Maintenance M1 for Shop S10
+[2025-12-09 00:54:32] [INFO] Created Shop: Shop A (ID: S1)
+[2025-12-09 00:54:32] [INFO] Created Rental R1 for Shop S1
+[2025-12-09 00:54:32] [INFO] Created Shop: Shop B (ID: S2)
+[2025-12-09 00:54:32] [INFO] Created Rental R1 for Shop S2
+[2025-12-09 00:54:39] [INFO] Created Shop: Adidas (ID: 102)
+[2025-12-09 00:54:39] [INFO] Created Shop: Puma (ID: 103)
+[2025-12-09 00:54:39] [INFO] Deleted Shop ID: 103
